@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PIAgent")]
+[assembly: AssemblyTitle("PIAgent.Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PIAgent")]
+[assembly: AssemblyProduct("PIAgent.Test")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8d15e621-8d3c-4000-80fb-c4bd7767c923")]
+[assembly: Guid("9e7ec20b-6fd8-47d8-bcdd-c293be58df93")]
 
 // Version information for an assembly consists of the following four values:
 //

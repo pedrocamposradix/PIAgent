@@ -1,4 +1,4 @@
-﻿namespace PIAgent.ELEMENT
+﻿namespace PIAgent
 {
     partial class PIAgent
     {

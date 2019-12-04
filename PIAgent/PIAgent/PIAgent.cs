@@ -7,9 +7,8 @@ using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
-using System.Diagnostics;
 
-namespace PIAgent.ELEMENT
+namespace PIAgent
 {
     public partial class PIAgent : ServiceBase
     {
@@ -33,6 +32,11 @@ namespace PIAgent.ELEMENT
 
         protected override void OnStop()
         {
+        }
+        
+        public bool IsOne(int p)
+        {
+            return p == 1;
         }
     }
 }

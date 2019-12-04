@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIAgent", "PIAgent\PIAgent.csproj", "{7D80F0A1-D084-4548-9187-181941E3E1F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIAgent.Test", "PIAgent.Test\PIAgent.Test.csproj", "{39153ABE-CA81-4C4C-AAE5-8A7E1A9D68A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7D80F0A1-D084-4548-9187-181941E3E1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D80F0A1-D084-4548-9187-181941E3E1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D80F0A1-D084-4548-9187-181941E3E1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39153ABE-CA81-4C4C-AAE5-8A7E1A9D68A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39153ABE-CA81-4C4C-AAE5-8A7E1A9D68A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39153ABE-CA81-4C4C-AAE5-8A7E1A9D68A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39153ABE-CA81-4C4C-AAE5-8A7E1A9D68A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
